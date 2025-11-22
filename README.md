@@ -5,8 +5,3 @@ About the Map
 World Flat House Map is a Minecraft map project developed by player MinhthongVNMC, demonstrating outstanding creativity and building skills. This project focuses on creating a large and detailed world on a flat terrain area (flat world) in the Minecraft environment and city BEDROCK/PE.
 
 ​World Creation Day May 29, 2023 to present (This month, 2025), the project is still under construction and development.
-
-Map Information
-Compatible Version: 1.21.100 (Bedrock Version)
-Release Date: August 8, 2025
-Map Version: V2.0.1
