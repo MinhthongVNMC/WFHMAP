@@ -2,6 +2,8 @@
 🌏 World Flat House Map (WFHMAP)
 World Flat House Map is an ambitious Minecraft creative project developed by MinhthongVNMC for the Minecraft Bedrock/PE edition. This project demonstrates exceptional building skills by transforming a default flat terrain into a vast, detailed world featuring urban landscapes and creative structures.
 
+![a8a872ecf2_world-flat-house-map-cover](https://github.com/user-attachments/assets/80a860ff-3570-4ddb-92e9-eca9831de209)
+
 📌 Project Information
  * Creator: MinhthongVNMC.
  * Platform: Minecraft Bedrock Edition / Pocket Edition (PE).
