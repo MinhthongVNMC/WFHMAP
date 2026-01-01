@@ -1,8 +1,13 @@
 # World Flat House Map
+![20260101_203336](https://github.com/user-attachments/assets/49e89de3-81bf-4bc0-8621-cd62f853fb7b)
+
+<img width="1700" height="509" alt="1767274470154" src="https://github.com/user-attachments/assets/603a93c8-8ff3-4bd3-828a-490a9a50502e" />
+
 🌏 World Flat House Map (WFHMAP)
 World Flat House Map is an ambitious Minecraft creative project developed by MinhthongVNMC for the Minecraft Bedrock/PE edition. This project demonstrates exceptional building skills by transforming a default flat terrain into a vast, detailed world featuring urban landscapes and creative structures.
 
-<img width="3218" height="824" alt="1000645378" src="https://github.com/user-attachments/assets/fac4497f-f3a6-436a-86a9-fbd95249e476" />
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/b7d88f74-b631-482a-b698-770a0b61d74e)
+
 
 📌 Project Information
  * Creator: MinhthongVNMC.
@@ -11,6 +16,9 @@ World Flat House Map is an ambitious Minecraft creative project developed by Min
  * Current Status: Active development (Continuous updates through 2023-2026).
  * Primary Category: Creative.
  * Sub-Category: Creative-Survival.
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/05f51a9e-d0bf-4a72-8ddb-03cfe148545a)
+
 
 🛠 Development Roadmap (Changelog)
 The project has undergone significant evolution through multiple versions:
@@ -27,6 +35,9 @@ The project has undergone significant evolution through multiple versions:
  * V2.0.1 Released on August 8th, 2025
  * V2.1.0b: Major update on, 2026.
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/ce878331-39b0-4bb1-a0ee-20e3ac654ec7)
+
+
 ⚖️ License & Distribution
 To protect the creator's effort while encouraging community growth, this project follows these rules:
  * License: Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0).
@@ -39,15 +50,14 @@ To protect the creator's effort while encouraging community growth, this project
 
 💬 Connect & Support
 Stay updated with the latest progress through our official channels:
+
  * Discord: Join our community hub for technical support and feedback.
- * Socials: YouTube, Facebook, TikTok, and GitHub.
 
-preview image
+Tiktok
+https://www.tiktok.com/@minhthongvnmc?is_from_webapp=1&sender_device=pc
 
-![1000624320](https://github.com/user-attachments/assets/62b4a515-509c-45b6-a9af-b05610bb81f6)
-![1000624324](https://github.com/user-attachments/assets/00b70984-ea13-4374-9d7e-31de916c7d74)
-![1000624322](https://github.com/user-attachments/assets/468e0496-ab02-4487-a68f-5cf193839d4f)
-![1000624319](https://github.com/user-attachments/assets/92105c15-930b-4769-bd54-a0ee8bd0a626)
-![1000624325](https://github.com/user-attachments/assets/2d06cd77-a2d5-4a5a-9f4b-81da8c9da876)
-![1000624323](https://github.com/user-attachments/assets/b0fc57d4-7621-4b58-8a50-a8b3c1c60ea6)
-![1000624321](https://github.com/user-attachments/assets/712d002d-aec6-41fd-afa3-ea2cf0f1c195)
+Planet Minecraft
+https://www.planetminecraft.com/member/minhthongvnmc/
+
+![68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3336424346372663656e7465723d74727565267643656e7465723d74727565267](https://github.com/user-attachments/assets/0165e61e-ba10-44ec-bd6d-500c2738ebaa)
+
