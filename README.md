@@ -38,17 +38,6 @@ The project has undergone significant evolution through multiple versions:
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/ce878331-39b0-4bb1-a0ee-20e3ac654ec7)
 
-
-⚖️ License & Distribution
-To protect the creator's effort while encouraging community growth, this project follows these rules:
- * License: Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0).
- 
-   * Attribution: You must give appropriate credit to MinhthongVNMC.
-    
-   * Non-Commercial: You may NOT sell this map or use it for commercial purposes.
-
- * Distribution: External distribution outside of this ecosystem is ALLOWED (e.g., sharing on CurseForge, Discord, or YouTube).
-
 💬 Connect & Support
 Stay updated with the latest progress through our official channels:
 
