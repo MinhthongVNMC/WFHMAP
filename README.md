@@ -4,8 +4,7 @@
 
 <img width="1700" height="509" alt="1767274470154" src="https://github.com/user-attachments/assets/603a93c8-8ff3-4bd3-828a-490a9a50502e" />
 
-🌏 WFHMAP
-WFHMAP is an ambitious Minecraft creative project developed by MinhthongVNMC for the Minecraft Bedrock/PE edition. This project demonstrates exceptional building skills by transforming a default flat terrain into a vast, detailed world featuring urban landscapes and creative structures.
+🌏 WFHMAP is an ambitious Minecraft creative project developed by MinhthongVNMC for the Minecraft Bedrock/PE edition. This project demonstrates exceptional building skills by transforming a default flat terrain into a vast, detailed world featuring urban landscapes and creative structures.
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/b7d88f74-b631-482a-b698-770a0b61d74e)
 
