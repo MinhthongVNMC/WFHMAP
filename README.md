@@ -1,4 +1,4 @@
-# WFHMAP
+# WFHMAP (Bedrock Edition)
 
 ![1000645716](https://github.com/user-attachments/assets/fd2aef01-121d-45da-a5d6-a6791900681a)
 
@@ -40,12 +40,12 @@ The project has undergone significant evolution through multiple versions:
 💬 Connect & Support
 Stay updated with the latest progress through our official channels:
 
-Official WFHMAP (Bedrock Edition) Discord link
+**Official WFHMAP (Bedrock Edition) Discord link**
 https://discord.gg/6dZazhKrG
 
  * Discord: Join our community hub for technical support and feedback.
 
-🌟 Why join the WFHMAP server?
+🌟**Why join the WFHMAP server?**
 
 **Information and Announcements:** You'll receive instant notifications about new versions and important changes on the #📢◇announcements channel.
 
@@ -55,18 +55,18 @@ https://discord.gg/6dZazhKrG
 
 **Become a Beta Tester:** Participate in testing the latest features and provide feedback to improve the map on the #📂◇beta-testing channel.
 
- Interact directly with the creator: Chat, ask questions, and connect with MinhthongVNMC and the community at #💬◇general or #💬🇻🇳◇vietnamese-chat.
+**Interact directly** with the creator: Chat, ask questions, and connect with MinhthongVNMC and the community at #💬◇general or #💬🇻🇳◇vietnamese-chat.
 
-Report bugs: Contribute to maintaining project quality by reporting technical issues at the #📛◇bug-report channel.
+**Report bugs**: Contribute to maintaining project quality by reporting technical issues at the #📛◇bug-report channel.
 
-Livestream and more: Follow live build sessions at 🔴| Livestream by @minhthongvnmc at #📅◇event.
+**Livestream and more**: Follow live build sessions at 🔴| Livestream by @minhthongvnmc at #📅◇event.
 
-Talk channels: Join language channels like 🔊| Play with friends or watch the world-building process live at 🛠️🏠| Live build WFHMAP.
+**Talk channels**: Join language channels like 🔊| Play with friends or watch the world-building process live at 🛠️🏠| Live build WFHMAP.
 
-Tiktok
+**Tiktok**
 https://www.tiktok.com/@minhthongvnmc/
 
-Planet Minecraft
+**Planet Minecraft**
 https://www.planetminecraft.com/member/minhthongvnmc/
 
 ![68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3336424346372663656e7465723d74727565267643656e7465723d74727565267](https://github.com/user-attachments/assets/0165e61e-ba10-44ec-bd6d-500c2738ebaa)
