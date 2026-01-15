@@ -42,6 +42,24 @@ Stay updated with the latest progress through our official channels:
 
  * Discord: Join our community hub for technical support and feedback.
 
+🌟 Why join the WFHMAP server?
+
+**Information and Announcements:** You'll receive instant notifications about new versions and important changes on the #📢◇announcements channel.
+
+**Exclusive Sneak Peeks:** Discover images of MinhthongVNMC's ongoing construction projects before their official release on the #👀◇sneak-peeks channel.
+
+**Direct Downloads:** Easily find secure and official map download links on the website | GitHub and Planet Minecraft.
+
+**Become a Beta Tester:** Participate in testing the latest features and provide feedback to improve the map on the #📂◇beta-testing channel.
+
+ Interact directly with the creator: Chat, ask questions, and connect with MinhthongVNMC and the community at #💬◇general or #💬🇻🇳◇vietnamese-chat.
+
+Report bugs: Contribute to maintaining project quality by reporting technical issues at the #📛◇bug-report channel.
+
+Livestream and more: Follow live build sessions at 🔴| Livestream by @minhthongvnmc at #📅◇event.
+
+Talk channels: Join language channels like 🔊| Play with friends or watch the world-building process live at 🛠️🏠| Live build WFHMAP.
+
 Tiktok
 https://www.tiktok.com/@minhthongvnmc/
 
