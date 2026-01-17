@@ -41,7 +41,7 @@ The project has undergone significant evolution through multiple versions:
 Stay updated with the latest progress through our official channels:
 
 **Official WFHMAP (Bedrock Edition) Discord link**
-https://discord.gg/6dZazhKrG
+https://discord.gg/weMAtyJ6fB
 
  * Discord: Join our community hub for technical support and feedback.
 
