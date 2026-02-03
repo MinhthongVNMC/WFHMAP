@@ -48,6 +48,7 @@ https://discord.gg/ucZxPz2Pj
 🌟**Why join the WFHMAP server?**
 
 Joining includes:
+
 ● Welcome
 
 ● Chat messages
