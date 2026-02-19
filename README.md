@@ -4,7 +4,7 @@
 
 <img width="1700" height="509" alt="1767274470154" src="https://github.com/user-attachments/assets/603a93c8-8ff3-4bd3-828a-490a9a50502e" />
 
-WFHMAP City is an ambitious Minecraft creative project developed by MinhthongVNMC Studio for the Minecraft Bedrock & Java edition. This project demonstrates exceptional building skills by transforming a default flat terrain into a vast, detailed world featuring urban landscapes and creative structures.
+WFHMAP City (formerly World Flat House Map) is a large-scale and highly detailed urban development project in Minecraft Bedrock edition, developed by MinhthongVNMC Studio. First released as an alpha version on May 29, 2023, it is the result of a continuous creative effort to transform a flat world into a vibrant, modern city.
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/b7d88f74-b631-482a-b698-770a0b61d74e)
 
@@ -15,7 +15,7 @@ WFHMAP City is an ambitious Minecraft creative project developed by MinhthongVNM
  * Initial Creation Date: May 29, 2023.
  * Current Status: Active development (Continuous updates through 2023-2026).
  * Primary Category: Creative.
- * Sub-Category: Creative-Survival.
+ * Sub-Category: Creative.
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/05f51a9e-d0bf-4a72-8ddb-03cfe148545a)
 
@@ -33,7 +33,7 @@ The project has undergone significant evolution through multiple versions:
  * V1.8a Released on May 23, 2025.
  * V1.9 Released on June 18, 2025
  * V2.0.1 Released on August 8th, 2025
- * V2.1.0b: Major update on, 2026.
+ * V2.1.0b: Major update on, 2026...
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/ce878331-39b0-4bb1-a0ee-20e3ac654ec7)
 
