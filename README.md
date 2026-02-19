@@ -1,10 +1,10 @@
-# Official WFHMAP (Bedrock & Java Edition)
+# WFHMAP City (Bedrock & Java Edition)
 
 ![1000645716](https://github.com/user-attachments/assets/fd2aef01-121d-45da-a5d6-a6791900681a)
 
 <img width="1700" height="509" alt="1767274470154" src="https://github.com/user-attachments/assets/603a93c8-8ff3-4bd3-828a-490a9a50502e" />
 
-🌏 WFHMAP is an ambitious Minecraft creative project developed by MinhthongVNMC Studio for the Minecraft Bedrock & Java edition. This project demonstrates exceptional building skills by transforming a default flat terrain into a vast, detailed world featuring urban landscapes and creative structures.
+WFHMAP City is an ambitious Minecraft creative project developed by MinhthongVNMC Studio for the Minecraft Bedrock & Java edition. This project demonstrates exceptional building skills by transforming a default flat terrain into a vast, detailed world featuring urban landscapes and creative structures.
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/b7d88f74-b631-482a-b698-770a0b61d74e)
 
