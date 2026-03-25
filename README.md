@@ -15,7 +15,7 @@ WFHMAP City (formerly World Flat House Map) is a large-scale and highly detailed
  * Initial Creation Date: May 29, 2023.
  * Current Status: Active development (Continuous updates through 2023-2026).
  * Primary Category: Creative.
- * Sub-Category: Creative.
+
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/05f51a9e-d0bf-4a72-8ddb-03cfe148545a)
 
@@ -44,36 +44,6 @@ Stay updated with the latest progress through our official channels:
 https://discord.gg/QexxH57Rd
 
  * Discord: Join our community hub for technical support and feedback.
-
-🌟**Why join the WFHMAP server?**
-
-Joining includes:
-
-● Welcome
-
-● Chat messages
-
-● Rules and safety 
-regulations/violations
-
-● Our announcements
-
-● Previews
-
-● Report bugs, issues, and add tags
-
-● Download our released maps
-
-● Livestreams and calls here
-
-● 2 translation sections
-
-● Servers are level 1 upgraded
-
-● Full emojis and stickers from MinhthongVNMC
-
-● Events organized by MinhthongVNMC
-
 ![68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3336424346372663656e7465723d74727565267643656e7465723d74727565267](https://github.com/user-attachments/assets/0165e61e-ba10-44ec-bd6d-500c2738ebaa)
 
 ![1000645720](https://github.com/user-attachments/assets/b58139ee-a670-4048-a374-b0ca9e8f7e10)
