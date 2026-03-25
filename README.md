@@ -41,7 +41,7 @@ The project has undergone significant evolution through multiple versions:
 Stay updated with the latest progress through our official channels:
 
 **Official WFHMAP (Bedrock & Java Edition) Discord link**
-https://discord.gg/QexxH57Rd
+https://discord.gg/j8UrcAPHu
 
  * Discord: Join our community hub for technical support and feedback.
 ![68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3336424346372663656e7465723d74727565267643656e7465723d74727565267](https://github.com/user-attachments/assets/0165e61e-ba10-44ec-bd6d-500c2738ebaa)
