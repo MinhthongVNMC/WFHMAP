@@ -31,26 +31,21 @@ https://youtube.com/@minhthongvnmc
 
 <img width="1436" height="1078" alt="1000709164" src="https://github.com/user-attachments/assets/142b8072-1955-40b6-94ed-6729e8e6563a" />
 
+
 https://www.tiktok.com/@minhthongvnmc
 
 
 <img width="1436" height="1078" alt="1000709183" src="https://github.com/user-attachments/assets/125d56fd-c94d-46d7-b911-a588d3fa0c87" />
+
 
 https://discord.gg/S9TjrjMJnN
 
 
 <img width="1436" height="1078" alt="1000709177" src="https://github.com/user-attachments/assets/01dfa689-0409-4a64-8758-378c720304da" />
 
+
 https://x.com/minhthongvnmc
 
 
-💬 Connect & Support
-Stay updated with the latest progress through our official channels:
-
-**Official WFHMAP (Bedrock & Java Edition) Discord link**
-https://discord.gg/2U6C8SJGpU
-
- * Discord: Join our community hub for technical support and feedback.
-![68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3336424346372663656e7465723d74727565267643656e7465723d74727565267](https://github.com/user-attachments/assets/0165e61e-ba10-44ec-bd6d-500c2738ebaa)
 
 ![1000645720](https://github.com/user-attachments/assets/b58139ee-a670-4048-a374-b0ca9e8f7e10)
